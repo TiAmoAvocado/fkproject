@@ -1,0 +1,192 @@
+#header {
+  width: 100%; }
+
+#head {
+  width: 100%; }
+
+#login {
+  width: 100%; }
+
+#foot {
+  width: 100%; }
+
+#head {
+  height: 56px; }
+
+.headcon {
+  width: 1200px;
+  height: 56px;
+  margin: 0 auto; }
+
+h1 {
+  float: left;
+  margin-top: 10px; }
+
+.headcon a {
+  float: right;
+  margin-top: 30px; }
+
+#login {
+  height: 528px; }
+
+.logincon {
+  width: 1200px;
+  height: 474px;
+  margin: 0 auto;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  margin-top: 5px; }
+
+.lgleft {
+  margin-left: 30px;
+  padding-top: 114px;
+  width: 414px;
+  height: 135px;
+  float: left; }
+
+.a1 {
+  margin-top: 32px;
+  margin-left: 55px; }
+
+.lgleft span {
+  font-size: 20px;
+  color: red; }
+
+.lgleft em {
+  font-size: 20px; }
+
+.lgrt {
+  width: 403px;
+  height: 454px;
+  float: right;
+  margin-right: 50px; }
+
+.lgrt b {
+  font-size: 20px;
+  color: gray;
+  margin-right: 128px; }
+
+.lgrt i {
+  font-size: 12px; }
+
+.a2 {
+  width: 401px;
+  height: 410px;
+  border: 1px solid black;
+  position: relative; }
+
+.a3 {
+  width: 401px;
+  height: 312px;
+  margin-top: 0;
+  border-bottom: 1px solid black; }
+
+.a3 .pt {
+  float: left;
+  display: block;
+  width: 200px;
+  height: 38px;
+  background: #b42025;
+  text-align: center;
+  line-height: 38px;
+  color: #FFFFFF; }
+
+.a3 .ks {
+  float: right;
+  width: 200px;
+  height: 38px;
+  background: #f5f5f5;
+  text-align: center;
+  line-height: 38px;
+  color: gray; }
+
+#txt {
+  width: 200px;
+  height: 35px;
+  margin-left: 22px;
+  margin-top: 31px; }
+
+#pwd {
+  width: 200px;
+  height: 35px;
+  margin-left: 22px;
+  margin-top: 25px; }
+
+.zh {
+  margin-right: 10px;
+  color: red;
+  margin-top: 10px;
+  display: block;
+  margin-left: 325px; }
+
+.lg {
+  width: 361px;
+  height: 50px;
+  background: #b42025;
+  margin-top: 40px;
+  margin-left: 20px;
+  text-align: center;
+  line-height: 50px; }
+
+.a2 p {
+  font-size: 12px;
+  color: gray;
+  margin-left: 22px;
+  margin-top: 10px;
+  float: left; }
+
+.a2 .pic {
+  position: absolute;
+  left: 20px;
+  top: 340px; }
+
+.a2 .pic1 {
+  position: absolute;
+  left: 55px;
+  top: 340px; }
+
+.a2 .pic2 {
+  position: absolute;
+  left: 90px;
+  top: 340px; }
+
+.a2 .pic3 {
+  position: absolute;
+  left: 130px;
+  top: 340px; }
+
+.a2 .pic4 {
+  position: absolute;
+  left: 170px;
+  top: 340px; }
+
+.a2 .pic5 {
+  position: absolute;
+  left: 220px;
+  top: 340px; }
+
+#foot {
+  height: 163px; }
+
+.footcon {
+  width: 1200px;
+  height: 163px;
+  margin: 0 auto;
+  margin-top: 30px;
+  padding-top: 20px; }
+
+.footcon p {
+  font-size: 12px;
+  margin-left: 186px; }
+
+.footcon .p1 {
+  margin-left: 522px;
+  margin-top: 15px; }
+
+.footcon .pic {
+  margin-left: 239px;
+  margin-top: 44px; }
+
+.footcon a {
+  float: left;
+  margin-right: 20px; }
